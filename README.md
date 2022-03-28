@@ -1,4 +1,4 @@
-# CommunicationEngineering
+# 信息与通信工程
 通信工程专业知识笔记
 《信号与系统》
 《离散时间信号处理》
